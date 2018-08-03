@@ -166,6 +166,8 @@ static BOOL disableCustomEasing = NO;
     ((CAShapeLayer *)self.layer).fillColor = [UIColor whiteColor].CGColor;
 }
 
+//add line
+
 + (Class)layerClass {
     return [JGActionSheetLayer class];
 }
