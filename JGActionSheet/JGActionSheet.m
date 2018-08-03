@@ -168,6 +168,8 @@ static BOOL disableCustomEasing = NO;
 
 //add line
 
+//add line2
+
 + (Class)layerClass {
     return [JGActionSheetLayer class];
 }
